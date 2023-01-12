@@ -1,11 +1,11 @@
 # Semantic Similarity Project
 
-* This program looks at the similarities between different words
+* This program looks at the similarities between different words or sentences
 
 ## Description
 
 * This program uses Spacy
-* To look at how similar two words are
+* To look at how similar two words or sentences are
 
 ### Installing
 
@@ -16,8 +16,8 @@
 
 ### How to use
 
-* Run the program to see how similar the words are
-* If you like, you can play around with different words
+* Run the program to see how similar the words and sentences are
+* If you like, you can play around with different words and sentences
 
 ## Contributors
 
